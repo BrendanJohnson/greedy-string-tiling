@@ -1,0 +1,6 @@
+{
+	"strict": true,
+	"node": true,
+	"undef": true,
+	"jasmine": true
+}

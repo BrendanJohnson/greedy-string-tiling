@@ -1,0 +1,9 @@
+{
+    "name": "greedy-string-tiling",
+    "version": "0.0.0",
+    "description": "Uses the Greedy String Tiling algorithm to perform string comparison and output the best matching substrings.",
+    "license": "MIT",
+    "main": "dist/greedy-string-tiling.js",
+    "author": "Brendan Johnson",
+    "repository": ""
+}
